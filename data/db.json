@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "first task",
+    "category": "task",
+    "content": "bla bla one twoo bla",
+    "archived": false,
+    "date": "10/06/2012"
+  },
+  {
+    "id": "2",
+    "name": "second task",
+    "category": "task",
+    "content": "22/06/2021 bla bla one twoo bla",
+    "archived": false,
+    "date": "22/06/2021"
+  },
+  {
+    "id": "3",
+    "name": "cleaning",
+    "category": "idea",
+    "content": "start cleaning service",
+    "archived": false,
+    "date": "10/06/2012"
+  },
+  {
+    "id": "4",
+    "name": "party and food menu",
+    "category": "Random Though",
+    "content": "Cheese and Garlic Crack Bread 12-06-2012",
+    "archived": false,
+    "date": "12-06-2012"
+  },
+  {
+    "id": "5",
+    "name": "shopping",
+    "category": "Random Though",
+    "content": "Shop high-quality unique Cool T-Shirts designed and sold by artists",
+    "archived": false,
+    "date": "12-06-2012"
+  }
+]
